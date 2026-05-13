@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="left">Hi 👋, I'm Desno </h1>
 
-<!--
-**Desno1k/Desno1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😁 Working to create high-quality open-source resources for **FiveM**
 
-Here are some ideas to get you started:
+I'm a FiveM Developer focused on:
+- Lua scripting
+- ESX development
+- Server optimization
+- Custom systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 I'm open to collaborating on open-source projects, especially around **FiveM scripting**
+
+---
+
+<h3 align="left">Languages and Tools:</h3>
+
+  <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="Lua" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  </a>
+</p>
+
