@@ -13,13 +13,14 @@ I'm currently focused on:
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools I'm Exploring:</h3>
 
 <p align="left">
-  <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="Lua" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  </a>
+  <img src="https://cdn.simpleicons.org/lua/2C2D72" alt="Lua" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" alt="Wireshark" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" alt="TensorFlow" width="40" height="40"/>
 </p>
